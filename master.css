@@ -1,0 +1,14 @@
+header{
+background-color:black;
+color:maroon;
+text-align:center;
+padding:10px;
+}
+footer{
+background-color:black;
+height:auto;
+color:white;
+clear:both;
+text-align:center;
+padding:5px;
+}

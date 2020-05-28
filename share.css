@@ -1,0 +1,22 @@
+nav{
+line-height:30px;
+background-color:#33ffc4;
+color:black;
+height:4000px;
+width:200px;
+float:left;
+padding:10px;
+}
+section{
+float:left;
+padding:10px;
+}
+p
+{
+color:black;
+font-style:BOLD;
+}
+img{display:inline;
+border:3px solid black;
+
+}
